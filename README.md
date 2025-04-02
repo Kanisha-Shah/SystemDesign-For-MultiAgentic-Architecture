@@ -1,7 +1,7 @@
 # 🔧 Interface: Scalable AI-Driven Compliance System Design
 
 ## 🧠 Overview
-This repository presents a system design I created for **Interface**, a YC-backed AI startup focused on transforming regulatory compliance for industrial documentation. The objective was to design a scalable, cost-efficient, and intelligent platform leveraging **Retrieval-Augmented Generation (RAG)**, **LLMs**, and **human-in-the-loop validation** to automate compliance audits.
+This repository presents a system design I created for **Interface**, a YC-backed AI startup focused on transforming regulatory compliance for industrial documentation duirng my interview with them. The objective was to design a scalable, cost-efficient, and intelligent platform leveraging **Retrieval-Augmented Generation (RAG)**, **LLMs**, and **human-in-the-loop validation** to automate compliance audits.
 
 ---
 
@@ -18,7 +18,8 @@ This repository presents a system design I created for **Interface**, a YC-backe
 ## 📊 System Architecture Overview
 
 ### 1. Cost & Infrastructure Planning
-![Cost Overview](./images/Cost-Overview.png)
+![Cost Overview](./Images/Cost-Overview.png)
+
 A breakdown of estimated monthly expenses across compute, storage, AI processing, and monitoring layers, with cost-saving alternatives for each.
 
 ---
